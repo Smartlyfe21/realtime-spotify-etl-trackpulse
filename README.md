@@ -1,10 +1,12 @@
-# 🎧 TrackPulse — Spotify ETL & Dashboard
+<p align="center">
+  <img src="images/spotify-logo.png" alt="Spotify Logo" width="80"/>
+</p>
 
-![Spotify Logo](images/spotify-logo.png){: style="width:100px;height:auto;"}
+# 🎧 TrackPulse — Spotify ETL & Dashboard
 
 Analyze top tracks, artists, and albums in real-time!
 
----
+
 
 ## 🚀 Project Overview
 TrackPulse is an end-to-end data engineering project that extracts, transforms, and loads Spotify playlist data into a PostgreSQL database, streams it via Kafka, and displays an interactive Streamlit dashboard for analysis.
@@ -125,5 +127,6 @@ Include audio features & genre analysis
 Embed preview for all tracks (currently limited to avoid Spotify rate limits)
 Add real-time alerts for trending tracks
 Deploy dashboard online (Streamlit Cloud / Render / Heroku)
+
 
 
