@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE / editor
+.idea/
+.DS_Store
+
+# Environment files
+.env
+
+# Logs
+logs/
+
+# Other caches
+.cache/
